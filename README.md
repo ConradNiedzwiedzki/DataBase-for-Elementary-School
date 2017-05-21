@@ -5,7 +5,7 @@ Projekt bazy szkoły podstawowej.
 Folden ten zawiera rozbudowany model konceptualny wraz z modelem fizycznym, utworzonym w PowerDesigner'ze.
 Na bazę danych, utworzoną w Sybase Central, składa się:
 12 tabel,
-8 widoków (w tym jeden zamterializowany),
+8 widoków (w tym jeden zmaterializowany),
 3 triggery,
 3 procedury (jedna z kursorem),
 4 funkcje (jedna z kursorem),
