@@ -1,5 +1,5 @@
-# DataBase-for-Elementary-School
-DataBase for Elementary School. It was a project for my studies so all of its files are in Polish:
+# Database-for-Elementary-School
+Database for Elementary School. It was a project for my studies so all of its files are in Polish:
 
 Projekt bazy szkoły podstawowej.
 Folden ten zawiera rozbudowany model konceptualny wraz z modelem fizycznym, utworzonym w PowerDesigner'ze.
